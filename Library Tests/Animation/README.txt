@@ -143,7 +143,7 @@ Functions:
 
         e.g.    _G.anim.easing
 
-        For every easing functions : http://hosted.zeh.com.br/tweener/docs/en-us/misc/transitions.html
+        To overview all the available easing functions: http://hosted.zeh.com.br/tweener/docs/en-us/misc/transitions.html
         Don't forget to press the 'complete' button on the top right-hand corner to see all the available curves!
 
 ________
